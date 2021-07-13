@@ -1,0 +1,16 @@
+{
+  "name": "03-bases-nose",
+  "version": "0.0.1",
+  "description": "Simple tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base11": "node app2 base=11"
+  },
+  "author": "José Mendoza V",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}
